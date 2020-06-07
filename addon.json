@@ -1,0 +1,14 @@
+{
+    "legacy_addon_id": "",
+    "title": "[MMO] Disable User State",
+    "description": "Adds the ability to disable your account",
+    "version_id": 2010070,
+    "version_string": "2.1.0",
+    "dev": "inzanty",
+    "dev_url": "https://mmo-zone.info/",
+    "faq_url": "https://mmo-zone.info/",
+    "support_url": "",
+    "extra_urls": [],
+    "require": [],
+    "icon": "fas fa-user-slash"
+}
